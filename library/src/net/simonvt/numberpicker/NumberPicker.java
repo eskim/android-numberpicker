@@ -142,7 +142,7 @@ public class NumberPicker extends LinearLayout {
     /**
      * The resource id for the default layout.
      */
-    private static final int DEFAULT_LAYOUT_RESOURCE_ID = 0;
+    private static final int DEFAULT_LAYOUT_RESOURCE_ID = R.layout.number_picker_with_selector_wheel;
 
     /**
      * Constant for unspecified size.
