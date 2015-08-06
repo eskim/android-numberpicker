@@ -23,3 +23,7 @@ samples/*
 !samples/build.xml
 !samples/project.properties
 !samples/pom.xml
+
+
+!build.gradle
+!settings.gradle
